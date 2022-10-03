@@ -38,7 +38,8 @@ public class Ejercicio3 {
                 negat++;
             }
         }
-        JOptionPane.showMessageDialog(null, "La suma de los 10 números es: " + suma
-        + "\nCantidad de números positivos: " + posit + "\nCantidad de números negativos: " + negat);
+        JOptionPane.showMessageDialog(null, "La suma de los 10 números es: "
+                + suma + "\nCantidad de números positivos: " + posit
+                + "\nCantidad de números negativos: " + negat);
     }
 }
